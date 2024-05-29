@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/bca332b2bcea474fa7b3ec8c61ee9dad/artifacts
+end_time: 1717017078571
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: bca332b2bcea474fa7b3ec8c61ee9dad
+run_name: debonair-boar-160
+run_uuid: bca332b2bcea474fa7b3ec8c61ee9dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017077681
+status: 3
+tags: []
+user_id: codespace

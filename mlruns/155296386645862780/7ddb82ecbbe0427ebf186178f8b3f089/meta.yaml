@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/7ddb82ecbbe0427ebf186178f8b3f089/artifacts
+end_time: 1717017095018
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 7ddb82ecbbe0427ebf186178f8b3f089
+run_name: tasteful-hare-970
+run_uuid: 7ddb82ecbbe0427ebf186178f8b3f089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017092276
+status: 3
+tags: []
+user_id: codespace

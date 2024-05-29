@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/380301882455616637/ea46580ea1624e6ab91466cefaf102d7/artifacts
+end_time: 1717017894940
+entry_point_name: ''
+experiment_id: '380301882455616637'
+lifecycle_stage: active
+run_id: ea46580ea1624e6ab91466cefaf102d7
+run_name: puzzled-midge-35
+run_uuid: ea46580ea1624e6ab91466cefaf102d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017894929
+status: 4
+tags: []
+user_id: codespace

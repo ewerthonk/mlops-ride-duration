@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/6d307adcc6fe47b8b135e6f25f703af4/artifacts
+end_time: 1717017793771
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 6d307adcc6fe47b8b135e6f25f703af4
+run_name: abundant-kite-785
+run_uuid: 6d307adcc6fe47b8b135e6f25f703af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017786664
+status: 3
+tags: []
+user_id: codespace

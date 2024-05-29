@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/3b110260c4784652bfba05fb0100e817/artifacts
+end_time: 1717017529494
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 3b110260c4784652bfba05fb0100e817
+run_name: blushing-crow-561
+run_uuid: 3b110260c4784652bfba05fb0100e817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017521430
+status: 4
+tags: []
+user_id: codespace

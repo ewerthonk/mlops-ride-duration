@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/6e5dbce153ed4f6880ccaf7788ee4780/artifacts
+end_time: 1717017104499
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 6e5dbce153ed4f6880ccaf7788ee4780
+run_name: melodic-auk-898
+run_uuid: 6e5dbce153ed4f6880ccaf7788ee4780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017099298
+status: 3
+tags: []
+user_id: codespace

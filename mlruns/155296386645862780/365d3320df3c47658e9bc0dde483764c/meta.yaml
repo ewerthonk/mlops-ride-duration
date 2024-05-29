@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/365d3320df3c47658e9bc0dde483764c/artifacts
+end_time: 1717017099290
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 365d3320df3c47658e9bc0dde483764c
+run_name: flawless-mole-964
+run_uuid: 365d3320df3c47658e9bc0dde483764c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017095926
+status: 3
+tags: []
+user_id: codespace

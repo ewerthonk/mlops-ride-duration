@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/f74b65c75efe45eba3e10c51e8f84294/artifacts
+end_time: 1717017051311
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: f74b65c75efe45eba3e10c51e8f84294
+run_name: marvelous-shrike-26
+run_uuid: f74b65c75efe45eba3e10c51e8f84294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017050788
+status: 3
+tags: []
+user_id: codespace

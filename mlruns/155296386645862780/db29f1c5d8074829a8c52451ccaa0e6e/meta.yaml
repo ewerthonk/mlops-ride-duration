@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/db29f1c5d8074829a8c52451ccaa0e6e/artifacts
+end_time: 1717017751346
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: db29f1c5d8074829a8c52451ccaa0e6e
+run_name: invincible-loon-534
+run_uuid: db29f1c5d8074829a8c52451ccaa0e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017749442
+status: 3
+tags: []
+user_id: codespace

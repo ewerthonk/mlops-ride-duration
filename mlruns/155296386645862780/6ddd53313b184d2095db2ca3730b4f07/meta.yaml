@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/6ddd53313b184d2095db2ca3730b4f07/artifacts
+end_time: 1717017773802
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 6ddd53313b184d2095db2ca3730b4f07
+run_name: orderly-steed-53
+run_uuid: 6ddd53313b184d2095db2ca3730b4f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017762351
+status: 3
+tags: []
+user_id: codespace

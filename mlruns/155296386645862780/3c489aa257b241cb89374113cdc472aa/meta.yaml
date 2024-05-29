@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/3c489aa257b241cb89374113cdc472aa/artifacts
+end_time: 1717017068571
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 3c489aa257b241cb89374113cdc472aa
+run_name: aged-whale-868
+run_uuid: 3c489aa257b241cb89374113cdc472aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017059356
+status: 3
+tags: []
+user_id: codespace

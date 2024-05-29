@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/eda08a7da6334497b8e94771f506a57d/artifacts
+end_time: 1717017050780
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: eda08a7da6334497b8e94771f506a57d
+run_name: fearless-wolf-878
+run_uuid: eda08a7da6334497b8e94771f506a57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017050382
+status: 3
+tags: []
+user_id: codespace

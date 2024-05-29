@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/348409cf12c84f23aadeea7dcd7314bb/artifacts
+end_time: 1717017816013
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 348409cf12c84f23aadeea7dcd7314bb
+run_name: judicious-fowl-922
+run_uuid: 348409cf12c84f23aadeea7dcd7314bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017811298
+status: 3
+tags: []
+user_id: codespace

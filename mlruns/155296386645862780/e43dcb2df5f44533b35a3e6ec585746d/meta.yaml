@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/e43dcb2df5f44533b35a3e6ec585746d/artifacts
+end_time: 1717017721080
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: e43dcb2df5f44533b35a3e6ec585746d
+run_name: rumbling-sloth-356
+run_uuid: e43dcb2df5f44533b35a3e6ec585746d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017711138
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/90bff7014e5f4788a7c679edd42358af/artifacts
+end_time: 1717017749436
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 90bff7014e5f4788a7c679edd42358af
+run_name: calm-cow-596
+run_uuid: 90bff7014e5f4788a7c679edd42358af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017747741
+status: 3
+tags: []
+user_id: codespace

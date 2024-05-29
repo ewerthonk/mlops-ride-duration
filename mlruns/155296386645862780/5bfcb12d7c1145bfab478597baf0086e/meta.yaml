@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155296386645862780/5bfcb12d7c1145bfab478597baf0086e/artifacts
+end_time: 1717017747734
+entry_point_name: ''
+experiment_id: '155296386645862780'
+lifecycle_stage: active
+run_id: 5bfcb12d7c1145bfab478597baf0086e
+run_name: youthful-grub-252
+run_uuid: 5bfcb12d7c1145bfab478597baf0086e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017737665
+status: 3
+tags: []
+user_id: codespace

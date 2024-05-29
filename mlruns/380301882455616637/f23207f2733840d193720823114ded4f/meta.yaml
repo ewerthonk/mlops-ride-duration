@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/380301882455616637/f23207f2733840d193720823114ded4f/artifacts
+end_time: 1717017196790
+entry_point_name: ''
+experiment_id: '380301882455616637'
+lifecycle_stage: active
+run_id: f23207f2733840d193720823114ded4f
+run_name: carefree-toad-31
+run_uuid: f23207f2733840d193720823114ded4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017196779
+status: 4
+tags: []
+user_id: codespace
